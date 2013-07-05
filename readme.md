@@ -70,7 +70,7 @@ This library/framework would come with some **goals**:
 
 ## Action:
 
-* If you know other transition/keyframe animation based demos/experiments that make senes to include here, file a ticket.
+* If you know other transition/keyframe animation based demos/experiments that make sense to include here, file a ticket.
 * If you're interested in helping to define the API let's hear it, comment on that ticket
 * A web-based builder is a must. A cmd-line builder isn't important for this, I'd say.
 
